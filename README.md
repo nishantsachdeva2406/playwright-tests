@@ -1,2 +1,0 @@
-# playwright-tests
-Playwright tests
